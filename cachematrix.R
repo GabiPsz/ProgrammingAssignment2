@@ -1,4 +1,5 @@
 ## calculate inverse of a matrix and cache; recall if calculated previously
+## initiate by running cached <- makeCachedMatrix(someInvertibleMatrix)
 
 ## define get/set functions
 
